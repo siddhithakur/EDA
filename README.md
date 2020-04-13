@@ -28,3 +28,10 @@ Data of 500 Cities with population more than 1 Lac by Census 2011
 'total_graduates'               : Total Number of Graduates
 'male_graduates'                : Male Graduates 
 'female_graduates'              : Female Graduates
+
+# Implementation
+
+Data visualization using Python libraries 
+1. matplotlib
+2. seaborn
+
